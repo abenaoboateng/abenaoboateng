@@ -1,9 +1,8 @@
-## Hi there 👋
-
-<# Hi, I'm Maame Abena Boateng! 👋  
+## Hi there Maame Abena Boateng 👋
+ 
 🌟 **Empowering Communities Through Tech and Innovation**  
 🎓 **B.S. in Public Health with a concentration in Biostatistics and Informatics**  
-💻 **AI/ML Fellow | Co-Founder & Co-President @ herScript | Aspiring PhD Candidate**  
+💻 **AI/ML Fellow | Co-Founder & Co-President @ herScript | Aspiring MPH, and PhD Candidate**  
 
 ---
 
@@ -74,4 +73,3 @@ Some highlights about me:
 ## 🎉 Fun Fact  
 When I’m not coding or exploring AI, I love mentoring students, attending tech events, and finding ways to connect with like-minded individuals to create meaningful change.
 
->
