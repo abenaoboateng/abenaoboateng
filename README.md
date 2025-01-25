@@ -65,7 +65,7 @@ Some highlights about me:
 ## 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/maame-abena-boateng/)  
 - 📧 **Email**: [abenaaboaateng@gmail.com](mailto:abenaaboaateng@gmail.com)  
-- 🌍 [Personal Website/Portfolio](https://yourportfolio.com) (if applicable)  
+
 
 ---
 
