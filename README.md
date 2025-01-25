@@ -1,16 +1,77 @@
 ## Hi there 👋
 
-<!--
-**abenaoboateng/abenaoboateng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Hi, I'm Maame Abena Boateng! 👋  
+🌟 **Empowering Communities Through Tech and Innovation**  
+🎓 **B.S. in Public Health with a concentration in Biostatistics and Informatics**  
+💻 **AI/ML Fellow | Co-Founder & Co-President @ herScript | Aspiring PhD Candidate**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About Me
+I’m passionate about leveraging technology to create social equity and innovation. With a strong foundation in **data science, AI, machine learning, human behavior and biostatistics**, I aim to bridge gaps and empower underrepresented communities, especially Black women in tech.
+
+Some highlights about me:
+- **Machine Learning Engineering Intern at Planned Parenthood**: Worked on enhancing chatbots like Roo to improve sexual health literacy among teens using NLP and error-detection models.
+- **Racial Equity and Data Intern at Austin Public Health**: Focused on leveraging data to address racial disparities and promote equity in public health systems.
+- **AI/ML Fellow at Break Through Tech**: Building innovative solutions like enhancing chatbots for healthcare literacy.
+- **Deloitte Internship Experience**: Applied generative AI to boost productivity and integrated healthcare systems.
+- **Co-Founder of herScript**: Supporting Black women in tech through professional development and community-building initiatives.
+
+
+---
+
+## 🛠️ Technical Skills
+- **Programming Languages**: Python, R, SQL, HTML ,Java 
+- **Data Visualization**: Tableau, Power BI  
+- **Frameworks & Tools**: TensorFlow, Jupyter Notebook, Git/GitHub, R Studio  
+- **Specializations**: Machine Learning (Supervised/Unsupervised), Statistical Modeling, NLP , Human Behavior 
+
+---
+
+## 🚀 Projects & Achievements
+### 🩺 **Enhancing Roo Chatbot** (Planned Parenthood Collaboration)  
+- Developed a model to detect and classify errors in Roo’s responses for improving real-time performance and effectiveness.  
+- Leveraged **Word2Vec embeddings** and **NLP techniques** to enhance sexual health literacy for teens.  
+
+### 🤖 **Generative AI for Productivity** (Deloitte Internship)  
+- Designed solutions using generative AI to improve team workflows and healthcare system integrations.  
+- Focused on Robotic Process Automation and generative AI
+
+---
+
+## 💡 Leadership & Impact
+- **Co-Founder & Co-President, herScript**: Expanded the initiative to three campuses, providing mentorship, corporate exposure, and networking for Black women in tech.  
+
+---
+
+## 🎓 Education
+- **The University of Texas at Austin**  
+  - Bachelor of Science in Public Health, Biostatistics & Informatics Concentration  
+  - Applied Statistical Modeling Certificate  
+
+---
+
+## 🌟 Certifications
+- **AI & Machine Learning Specialization**: Break Through Tech  
+- **Data Analysis for Health Sciences**: Cornell University  
+- Additional coursework in: Genetics, SQL, Machine Learning Engineering  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maameboateng&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maameboateng&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maame-abena-boateng/)  
+- 📧 **Email**: [abenaaboaateng@gmail.com](mailto:abenaaboaateng@gmail.com)  
+- 🌍 [Personal Website/Portfolio](https://yourportfolio.com) (if applicable)  
+
+---
+
+## 🎉 Fun Fact  
+When I’m not coding or exploring AI, I love mentoring students, attending tech events, and finding ways to connect with like-minded individuals to create meaningful change.
+
+>
