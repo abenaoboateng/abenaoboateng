@@ -51,9 +51,8 @@ Some highlights about me:
 ---
 
 ## 🌟 Certifications
-- **AI & Machine Learning Specialization**: Break Through Tech  
-- **Data Analysis for Health Sciences**: Cornell University  
-- Additional coursework in: Genetics, SQL, Machine Learning Engineering  
+- **AI & Machine Learning Specialization**: Cornell University
+
 
 ---
 
