@@ -30,7 +30,7 @@ Some highlights about me:
 ## 🚀 Projects & Achievements
 
 **Equitable AI for Dermatology**[Project Link](https://github.com/Shahed4/AJL-Team-SPF)
-Description: Developed an inclusive AI model to classify 21 skin conditions across diverse skin tones, addressing bias in dermatology. Used data augmentation, transfer learning, and fairness analysis (Fairlearn) to improve model performance for all demographics.
+- Description: Developed an inclusive AI model to classify 21 skin conditions across diverse skin tones, addressing bias in dermatology. Used data augmentation, transfer learning, and fairness analysis (Fairlearn) to improve model performance for all demographics.
 
 Impact: Contributed to more equitable healthcare AI by improving diagnostic accuracy across underrepresented skin tones.
 ### 🩺 **Enhancing Roo Chatbot** (Planned Parenthood Collaboration)  
