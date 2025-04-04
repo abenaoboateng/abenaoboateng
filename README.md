@@ -8,7 +8,7 @@
 ---
 
 ## 🌍 About Me
-I’m passionate about leveraging technology to create social equity and innovation. With a strong foundation in **data science, AI, machine learning, human behavior and biostatistics**, I aim to bridge gaps and empower underrepresented communities, especially Black women in tech.
+I’m passionate about leveraging technology to create social equity and innovation. With a strong foundation in **data science, AI, machine learning, human behaviors**, I aim to bridge gaps and empower underrepresented communities, especially Black women in tech.
 
 Some highlights about me:
 - **Machine Learning Engineering Intern at Planned Parenthood**: Worked on enhancing chatbots like Roo to improve sexual health literacy among teens using NLP and error-detection models.
