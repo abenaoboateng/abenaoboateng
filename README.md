@@ -2,6 +2,7 @@
  
 🌟 **Empowering Communities Through Tech and Innovation**  
 🎓 **B.S. in Public Health with a concentration in Biostatistics and Informatics**  
+🎓 **Certificate in Applied Statistical Modeling**  
 💻 **AI/ML Fellow | Co-Founder & Co-President @ herScript | Aspiring MPH, and PhD Candidate**  
 
 ---
@@ -29,7 +30,7 @@ Some highlights about me:
 
 ## 🚀 Projects & Achievements
 
-### **Nom Nomz - An AI Assistant to help you Plan Smart and Eat Better**[Project Link]()
+### **[Nom Nomz - An AI Assistant to help you Plan Smart and Eat Better]()**
 
 - Description: Nom Nomz utilizes a blend of recommendation systems, supervised learning, and rule-based logic to provide intelligent meal suggestions, flexible scheduling, and tailored meal filters for college students who are excited to start meal prepping.
 - Responsive Notification: Stay in the loop with timely reminders that adjust to your schedule, whether it’s time to meal prep, grab groceries, or eat before your next class.
