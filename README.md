@@ -43,7 +43,7 @@ Some highlights about me:
 
 Impact: Contributed to more equitable healthcare AI by improving diagnostic accuracy across underrepresented skin tones.
 
-### 🩺 **Enhancing Roo Chatbot** (Planned Parenthood Collaboration)  
+### 🩺 **[Enhancing Roo Chatbot (Planned Parenthood Collaboration)](https://github.com/abenaoboateng/Classification-of-Misfires-for-Chatbot-)** 
 - Developed a model to detect and classify errors in Roo’s responses for improving real-time performance and effectiveness.  
 - Leveraged **Word2Vec embeddings** and **NLP techniques** to enhance sexual health literacy for teens.  
 
