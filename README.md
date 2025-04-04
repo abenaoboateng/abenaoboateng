@@ -29,7 +29,16 @@ Some highlights about me:
 
 ## 🚀 Projects & Achievements
 
-**Equitable AI for Dermatology**[Project Link](https://github.com/Shahed4/AJL-Team-SPF)
+### **Nom Nomz - An AI Assistant to help you Plan Smart and Eat Better**[Project Link]()
+
+- Description: Nom Nomz utilizes a blend of recommendation systems, supervised learning, and rule-based logic to provide intelligent meal suggestions, flexible scheduling, and tailored meal filters for college students who are excited to start meal prepping.
+- Responsive Notification: Stay in the loop with timely reminders that adjust to your schedule, whether it’s time to meal prep, grab groceries, or eat before your next class.
+- Dynamic Screens: Your interface adapts in real time, showing what matters most based on your activity, cooking progress, or time of day.
+- AI Cooking Failsafes: Our AI is specifically encoded with Advanced cooking knowledge, to make sure steps followed from other users are safe.
+- Locally Hosted Data: Your data stays on your device, giving you control and privacy without compromising personalization.
+
+
+### **Equitable AI for Dermatology**[Project Link](https://github.com/Shahed4/AJL-Team-SPF)
 - Description: Developed an inclusive AI model to classify 21 skin conditions across diverse skin tones, addressing bias in dermatology. Used data augmentation, transfer learning, and fairness analysis (Fairlearn) to improve model performance for all demographics.
 
 Impact: Contributed to more equitable healthcare AI by improving diagnostic accuracy across underrepresented skin tones.
