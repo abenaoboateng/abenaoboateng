@@ -1,90 +1,86 @@
-## Hi there Maame Abena Boateng 👋
- 
-🌟 **Empowering Communities Through Tech and Innovation**  
-🎓 **B.S. in Public Health with a concentration in Biostatistics and Informatics**  
-🎓 **Certificate in Applied Statistical Modeling**  
-💻 **AI/ML Fellow | Co-Founder & Co-President @ herScript | Aspiring MPH, and PhD Candidate**  
+<h1 align="center" style="color:#000000;">Maame Abena Boateng</h1>
+<h3 align="center" style="color:#2ecc71;">Empowering Communities Through Technology and Innovation</h3>
+
+<p align="center" style="color:#ffccd5;">
+B.S. in Public Health (Biostatistics & Informatics) | Certificate in Applied Statistical Modeling  
+Cloud Security Engineer @ JPMorgan Chase | AI/ML Fellow | Break Through Tech Ambassador | Co-Founder & Co-President @ herScript
+</p>
 
 ---
 
-## 🌍 About Me
-I’m passionate about leveraging technology to create social equity and innovation. With a strong foundation in **data science, AI, machine learning, human behaviors**, I aim to bridge gaps and empower underrepresented communities, especially Black women in tech.
+## About Me
+I’m a technologist and software engineer passionate about creating technology that works for people — not the other way around.  
+My background spans AI/ML, data science, public health research, human-centered design, and fintech engineering. I thrive at the intersection of disciplines, building solutions that combine technical innovation with measurable social impact.
 
-Some highlights about me:
-- **Machine Learning Engineering Intern at Planned Parenthood**: Worked on enhancing chatbots like Roo to improve sexual health literacy among teens using NLP and error-detection models.
-- **Racial Equity and Data Intern at Austin Public Health**: Focused on leveraging data to address racial disparities and promote equity in public health systems.
-- **AI/ML Fellow at Break Through Tech**: Building innovative solutions like enhancing chatbots for healthcare literacy.
-- **Deloitte Internship Experience**: Applied generative AI to boost productivity and integrated healthcare systems.
-- **Co-Founder of herScript**: Supporting Black women in tech through professional development and community-building initiatives.
-
+As Co-Founder of **herScript**, I lead initiatives to expand opportunities for Black women in technology through mentorship, professional development, and corporate partnerships.  
+I believe in the power of versatility, purpose-driven work, and authentic career building.
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming Languages**: Python, R, SQL, HTML ,Java 
-- **Data Visualization**: Tableau, Power BI  
-- **Frameworks & Tools**: TensorFlow, Jupyter Notebook, Git/GitHub, R Studio  
-- **Specializations**: Machine Learning (Supervised/Unsupervised), Statistical Modeling, NLP , Human Behavior 
+## Experience Highlights
+
+- **Cloud Security Engineer, JPMorgan Chase** — Implementing secure cloud solutions, cryptographic systems, and automation using AWS, DevOps, and security engineering best practices.  
+- **Machine Learning Engineering Intern, Planned Parenthood** — Enhanced Roo chatbot with NLP and error-detection models to improve sexual health literacy for teens. Built models using Python, SQL, and relational databases.  
+- **Racial Equity & Data Intern, Austin Public Health** — Applied statistical analysis and SQL-based data workflows to address racial disparities in healthcare systems.  
+- **AI/ML Fellow, Break Through Tech** — Developed inclusive, data-driven healthcare technology solutions using Python, SQLAlchemy, and advanced machine learning frameworks.  
+- **Business Technology Solutions Intern, Deloitte** — Leveraged generative AI for workflow optimization, applied DevOps principles for deployment, and integrated healthcare systems.  
+- **Co-Founder & Co-President, herScript** — Expanded to three campuses, providing career growth, networking, and community for Black women in tech.
 
 ---
 
-## 🚀 Projects & Achievements
+## Technical Skills
 
-### **[Nom Nomz - An AI Assistant to help you Plan Smart and Eat Better]()**
-
-- Description: Nom Nomz utilizes a blend of recommendation systems, supervised learning, and rule-based logic to provide intelligent meal suggestions, flexible scheduling, and tailored meal filters for college students who are excited to start meal prepping.
-- Responsive Notification: Stay in the loop with timely reminders that adjust to your schedule, whether it’s time to meal prep, grab groceries, or eat before your next class.
-- Dynamic Screens: Your interface adapts in real time, showing what matters most based on your activity, cooking progress, or time of day.
-- AI Cooking Failsafes: Our AI is specifically encoded with Advanced cooking knowledge, to make sure steps followed from other users are safe.
-- Locally Hosted Data: Your data stays on your device, giving you control and privacy without compromising personalization.
-
-
-### **[Equitable AI for Dermatology](https://github.com/Shahed4/AJL-Team-SPF)**
-- Description: Developed an inclusive AI model to classify 21 skin conditions across diverse skin tones, addressing bias in dermatology. Used data augmentation, transfer learning, and fairness analysis (Fairlearn) to improve model performance for all demographics.
-
-Impact: Contributed to more equitable healthcare AI by improving diagnostic accuracy across underrepresented skin tones.
-
-### 🩺 **[Enhancing Roo Chatbot (Planned Parenthood Collaboration)](https://github.com/abenaoboateng/Classification-of-Misfires-for-Chatbot-)** 
-- Developed a model to detect and classify errors in Roo’s responses for improving real-time performance and effectiveness.  
-- Leveraged **Word2Vec embeddings** and **NLP techniques** to enhance sexual health literacy for teens.  
-
-### 🤖 **Generative AI for Productivity** (Deloitte Internship)  
-- Designed solutions using generative AI to improve team workflows and healthcare system integrations.  
-- Focused on Robotic Process Automation and generative AI
+**Languages:** Python, R, Java, JavaScript, TypeScript, SQL, HTML, CSS  
+**Frameworks & Libraries:** Spring Framework, React.js, TensorFlow, SQLAlchemy  
+**Databases:** Relational Databases (SQL-based)  
+**Data Visualization:** Tableau, Power BI  
+**Cloud & DevOps:** Amazon Web Services (AWS), DevOps, Security Engineering  
+**Specializations:** Machine Learning (Supervised/Unsupervised), Statistical Modeling, NLP, Human-Centered Design  
 
 ---
 
-## 💡 Leadership & Impact
-- **Co-Founder & Co-President, herScript**: Expanded the initiative to three campuses, providing mentorship, corporate exposure, and networking for Black women in tech.  
+## Projects
+
+### [Nom Nomz – AI Meal Planning Assistant]()
+AI-powered meal planning platform for college students using recommendation systems, supervised learning, and privacy-first data storage. Features dynamic scheduling, responsive notifications, and AI cooking safety measures.
+
+### [Equitable AI for Dermatology](https://github.com/Shahed4/AJL-Team-SPF)  
+Developed a dermatology model classifying 21 skin conditions across diverse skin tones. Used data augmentation, transfer learning, and fairness analysis to improve equity in AI diagnostics.
+
+### [Enhancing Roo Chatbot](https://github.com/abenaoboaateng/Classification-of-Misfires-for-Chatbot-)  
+Built an NLP model leveraging **Word2Vec** embeddings to detect and classify chatbot misfires, improving real-time accuracy for sexual health education.
+
+### Generative AI for Productivity (Deloitte)  
+Designed RPA and generative AI workflows to boost productivity, incorporating cloud integrations and security considerations.
 
 ---
 
-## 🎓 Education
-- **The University of Texas at Austin**  
-  - Bachelor of Science in Public Health, Biostatistics & Informatics Concentration  
-  - Applied Statistical Modeling Certificate  
+## Education
+
+**The University of Texas at Austin**  
+- B.S. in Public Health, Biostatistics & Informatics Concentration  
+- Certificate in Applied Statistical Modeling  
 
 ---
 
-## 🌟 Certifications
-- **AI & Machine Learning Specialization**: Cornell University
+## Certificates & Certifications
 
+- AI & Machine Learning Specialization – Cornell University  
+- AWS Certified Cloud Practitioner  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maameboateng&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maameboateng&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maameboateng&layout=compact&theme=radical)  
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/maame-abena-boateng/)  
-- 📧 **Email**: [abenaaboaateng@gmail.com](mailto:abenaaboaateng@gmail.com)  
-
+## Connect With Me
+💼 [LinkedIn](https://www.linkedin.com/in/maame-abena-boateng/)  
+📧 [abenaaboaateng@gmail.com](mailto:abenaaboaateng@gmail.com)  
 
 ---
 
-## 🎉 Fun Fact  
-When I’m not coding or exploring AI, I love mentoring students, attending tech events, and finding ways to connect with like-minded individuals to create meaningful change.
-
+## Interests
+I love contributing to open-source projects, reading TL;DR summaries, and exploring ethical issues in technology.
