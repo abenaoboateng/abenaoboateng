@@ -2,8 +2,8 @@
 <h3 align="center" style="color:#2ecc71;">Empowering Communities Through Technology and Innovation</h3>
 
 <p align="center" style="color:#ffccd5;">
-B.S. in Public Health (Biostatistics & Informatics) | Certificate in Applied Statistical Modeling  
-Cloud Security Engineer @ JPMorgan Chase | AI/ML Fellow | Break Through Tech Ambassador | Co-Founder & Co-President @ herScript
+B.S. in Public Health (Biostatistics & Informatics) | Certificate in Applied Statistical Modeling |  
+Cloud Security Engineer @ JPMorgan Chase | Former AI/ML Fellow | Break Through Tech Ambassador | Co-Founder & Co-Director @ herScript
 </p>
 
 ---
