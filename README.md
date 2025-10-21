@@ -19,7 +19,7 @@ I believe in the power of versatility, purpose-driven work, and authentic career
 
 ## Experience Highlights
 
-- **Cloud Security Engineer, JPMorgan Chase** — Implementing secure cloud solutions, cryptographic systems, and automation using AWS, DevOps, and security engineering best practices.  
+- **Software Engineer: Cloud Security Engineer, JPMorgan Chase** — Implementing secure cloud solutions, cryptographic systems, and automation using AWS, DevOps, and security engineering best practices.  
 - **Machine Learning Engineering Intern, Planned Parenthood** — Enhanced Roo chatbot with NLP and error-detection models to improve sexual health literacy for teens. Built models using Python, SQL, and relational databases.  
 - **Racial Equity & Data Intern, Austin Public Health** — Applied statistical analysis and SQL-based data workflows to address racial disparities in healthcare systems.  
 - **AI/ML Fellow, Break Through Tech** — Developed inclusive, data-driven healthcare technology solutions using Python, SQLAlchemy, and advanced machine learning frameworks.  
