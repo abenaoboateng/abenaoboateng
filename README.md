@@ -3,7 +3,7 @@
 
 <p align="center" style="color:#ffccd5;">
 B.S. in Public Health (Biostatistics & Informatics) | Certificate in Applied Statistical Modeling |  
-Cloud Security Engineer @ JPMorgan Chase | Former AI/ML Fellow | Break Through Tech Ambassador | Co-Founder & Co-Director @ herScript
+Software Engineer: Cloud Security Engineer @ JPMorgan Chase | Former AI/ML Fellow | Break Through Tech Ambassador | Co-Founder & Co-Director @ herScript
 </p>
 
 ---
@@ -47,7 +47,7 @@ AI-powered meal planning platform for college students using recommendation syst
 ### [Equitable AI for Dermatology](https://github.com/Shahed4/AJL-Team-SPF)  
 Developed a dermatology model classifying 21 skin conditions across diverse skin tones. Used data augmentation, transfer learning, and fairness analysis to improve equity in AI diagnostics.
 
-### [Enhancing Roo Chatbot](https://github.com/abenaoboaateng/Classification-of-Misfires-for-Chatbot-)  
+### [Enhancing Roo Chatbot](https://github.com/abenaoboateng/Classification-of-Misfires-for-Chatbot-)  
 Built an NLP model leveraging **Word2Vec** embeddings to detect and classify chatbot misfires, improving real-time accuracy for sexual health education.
 
 ### Generative AI for Productivity (Deloitte)  
